@@ -1,0 +1,25 @@
+.jumbotron {
+    background-image: url(https://s0.smartresize.com/wallpaper/838/883/HD-wallpaper-red-sun-waves-birds-sunset-clouds-minimalism-others.jpg);
+    background-size: cover;
+    height: 770px;
+    color: #fff;
+}
+
+.btn-info{
+    padding-right: 100px;
+}
+
+.container {
+    text-align: center;
+}
+
+img{
+    margin: center;
+    width: 400px;
+    height: 400px;
+}
+
+.footer{
+    padding-top: 80px;
+    padding-left: 700px;
+}
